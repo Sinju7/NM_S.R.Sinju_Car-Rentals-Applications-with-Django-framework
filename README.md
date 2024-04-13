@@ -1,14 +1,22 @@
-# NM_S.R.Sinju_Car-Rentals-Applications-with-Django-framework
-Project implemented by:NM_S.R.Sinju_Car-Rentals-Applications-with-Django-framework
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
-Name:S.R.SINJU
 
-ID:au960221243044
+Project implemented by: 
 
-College name:Arunachala college of engineering for women
 
-Login credentials:
+Name:
+
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
 
 username: root
 
+
 Password: root
+
